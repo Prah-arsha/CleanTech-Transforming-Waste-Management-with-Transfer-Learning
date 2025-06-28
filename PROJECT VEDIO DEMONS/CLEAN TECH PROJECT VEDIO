@@ -1,1 +1,15 @@
-Project vedio demonstration
+ematoVision – Project Video Demonstration
+This repository contains the video demonstration of HematoVision, an AI-powered blood cell classification system built using Transfer Learning and deployed via a Flask-based web interface.
+
+📹 About the Video
+This demo video showcases:
+
+✅ Project overview and motivation
+
+✅ Live walkthrough of the web application
+
+✅ Uploading a blood cell image
+
+✅ Getting real-time prediction output
+
+✅ Explanation of how the system works behind the scenes
