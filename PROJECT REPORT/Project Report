@@ -1,1 +1,66 @@
-project report Demonstration
+ematoVision – AI-Based Blood Cell Classifier (Project Report)
+This repository contains the detailed project report for HematoVision, a web-based AI application designed to automate the classification of white blood cells using deep learning and transfer learning techniques.
+
+📄 About This Report
+The report covers all aspects of the project including:
+
+✅ Abstract and Introduction
+
+✅ Problem Statement and Motivation
+
+✅ Objectives and Requirements
+
+✅ Technical Specifications and Architecture
+
+✅ Application Workflow and Implementation
+
+✅ Testing, Results, and Screenshots
+
+✅ Use Cases, Advantages, and Limitations
+
+✅ Future Enhancements and Conclusion
+
+📁 Files Included
+HematoVision_Professional_Project_Report.docx – Editable Word version
+
+(Optional) HematoVision_Professional_Project_Report.pdf – PDF version for direct viewing
+
+🧠 Project Summary
+HematoVision is a deep learning-powered solution that classifies blood cells into four major types:
+
+Eosinophils
+
+Lymphocytes
+
+Monocytes
+
+Neutrophils
+
+Using a pre-trained CNN model (.h5), users can upload a microscopic blood cell image and receive an instant prediction. The project is implemented using:
+
+Python (Flask framework)
+
+TensorFlow/Keras
+
+Bootstrap (for frontend UI)
+
+🎯 Key Features
+Web-based interface for image upload and real-time prediction
+
+Modular backend with Flask and TensorFlow integration
+
+Educational and clinical use case applications
+
+Clean UI built with HTML5 and Bootstrap 5
+
+Portable and runs on CPU with no external dependencies
+
+🏥 Real-World Applications
+Hospital pathology labs
+
+Rural and mobile healthcare units
+
+Medical colleges and training centers
+
+Telemedicine platforms
+
