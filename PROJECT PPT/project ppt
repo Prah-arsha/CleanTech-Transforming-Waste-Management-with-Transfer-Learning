@@ -1,1 +1,9 @@
-Project PPT Representation
+HematoVision is a deep learning-based web application developed using Flask, TensorFlow/Keras, and Bootstrap. It enables users to upload blood smear images and get instant predictions about the type of white blood cell (eosinophil, lymphocyte, monocyte, or neutrophil). The system is designed for:
+
+Clinical diagnostics
+
+Telemedicine support
+
+Medical student training
+
+Remote and mobile healthcare units
